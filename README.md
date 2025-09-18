@@ -43,3 +43,24 @@ npm install
 **Start development server**
 npm start
 
+## 🎮 How to Play
+
+Enter a number in the input field.
+
+Click Guess to check if it matches the hidden number.
+
+Get feedback instantly (Correct / Try again).
+
+Track how many attempts you made.
+
+Click Restart to start a new game.
+
+## 🔮 Future Enhancements
+
+⏱️ Add a timer.
+
+🏆 High score leaderboard.
+
+🎨 Better styling with TailwindCSS or Material UI.
+
+📱 Mobile-optimized UI.
